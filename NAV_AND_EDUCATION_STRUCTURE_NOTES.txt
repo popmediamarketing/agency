@@ -1,0 +1,18 @@
+Fixes made:
+1. 14K vs 18K page is kept as an SEO landing page:
+   /14k-gold-ring-malaysia.html
+
+2. It is now clearly linked under:
+   Education -> Gold Material Guide
+
+3. Navigation active state fixed:
+   - Home only active on index.html
+   - 14K / 18K / comparison pages now highlight Education
+   - Diamonds pages highlight Diamonds
+   - Collection/engagement pages highlight Collections
+
+4. Added note on 14K page:
+   This is an Education SEO guide, not the homepage.
+
+Website click path:
+Education -> Gold Material Guide -> 14K vs 18K Gold

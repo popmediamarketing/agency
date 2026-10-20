@@ -1,0 +1,26 @@
+Heritage Series V2 placement notes
+
+New uploaded images analysed and added into:
+- assets/settings/heritage/
+- Setting Library: Heritage — CC-H001 section
+- Setting Library: Heritage shape options and structure angles
+- Showcase: Heritage Solitaire Series showcase
+- Engagement Ring Advisor: recommended base setting visual section
+- Engagement Ring Malaysia SEO page
+- Homepage compact highlight
+
+Positioning:
+Heritage — CC-H001
+Series: Heritage Solitaire Series
+Type: Classic Solitaire
+
+Supported shapes now shown:
+Round, Oval, Emerald, Asscher, Cushion, Radiant, Princess, Heart, Marquise, Pear
+
+New uploaded images processed: 13
+Total Heritage image references in manifest: 33
+
+Use:
+- Front images for customer-facing shape comparison.
+- Side/back/profile images for advisor explanation on height, basket structure and daily-wear practicality.
+- Do not show full CAD measurements publicly.

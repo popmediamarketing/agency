@@ -1,0 +1,12 @@
+Copy this prompt for future media updates:
+
+This batch is for [SETTING / CATEGORY].
+Setting code: [CC-____]
+Setting name: [_____]
+Series: [_____]
+Main use: [Setting Library / Showcase / Engagement Advisor / Education / SEO]
+Homepage: [No / Only best 1 image / 2 images]
+Access level: [Public / Protected / Private]
+Watermark: [Yes / No]
+
+Please analyse the uploaded photos/videos, remove duplicates, identify front/side/back/profile/lifestyle angles, compress to WebP or MP4, add subtle watermark if needed, write alt text and captions, update the Chamuel Media Library System, place the media into suitable pages, and create a ready-to-upload website ZIP.

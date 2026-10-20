@@ -1,0 +1,16 @@
+Diamond comparison section added.
+
+Source image:
+SOP.png supplied by user.
+
+Placed into:
+- education.html
+- diamonds.html
+- moissanite-vs-lab-grown-diamond-malaysia.html
+
+Explanation added:
+- Moissanite: silicon carbide, not diamond, rainbow fire, usually most affordable
+- Lab-grown diamond: pure carbon diamond, lab-created, classic white sparkle, better size-to-budget
+- Natural diamond: pure carbon diamond, earth-mined, traditional and usually most expensive
+
+Also re-applied 14K vs 18K page repositioning into the full site package with assets.

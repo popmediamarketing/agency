@@ -1,0 +1,23 @@
+Chamuel & Co. — Archangel Chamuel Palette Trial
+
+Color direction used:
+- Deep Rose Wine: #5b2638 / #7f3548
+- Rose Quartz: #c7768a
+- Soft Blush: #fff6f4 / #f5d8dd
+- Champagne Gold: #c6a467 / #f3ddb2
+- Warm Ivory: #fffaf9
+
+Design intention:
+- Replace heavy black sections with softer rose/champagne gradients.
+- Keep a premium jewelry feel, not too sweet.
+- Retain gold as luxury accent.
+- Use deep rose instead of black for contrast and readability.
+
+Changed areas:
+- Top announcement bar
+- Main dark buttons
+- CTA panels
+- Footer
+- Advisor note blocks
+- General background and alternate section background
+- Floating WhatsApp button

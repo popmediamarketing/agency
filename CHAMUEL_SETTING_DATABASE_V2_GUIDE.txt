@@ -1,0 +1,70 @@
+Chamuel Setting Database V2
+
+Removed:
+- created_date
+
+Updated:
+- material_supported now includes:
+  Silver, 9K Gold, 14K Gold, 18K Gold, Platinum
+
+Renamed:
+- cleaning_difficulty_score -> cleaning_ease_score
+
+Scoring display:
+- Use 🌟 instead of ★
+- 5 = strongest / easiest / most suitable
+- 1 = weakest / hardest / least suitable
+
+Minimum Identity Fields:
+1. setting_code
+2. setting_name
+3. series
+4. setting_type
+5. status
+6. version
+
+Core Database Fields:
+setting_code
+setting_name
+series
+setting_type
+status
+version
+tag
+public_description
+best_for
+material_supported
+stone_shapes_supported
+stone_types_supported
+recommended_for_lifestyle
+recommended_for_priority
+budget_min
+budget_max
+sparkle_score
+maintenance_score
+durability_score
+daily_wear_score
+cleaning_ease_score
+resizing_score
+budget_efficiency_score
+advisor_note
+sales_angle
+image_access_level
+watermark_required
+slug
+
+AI Training / Adjustment:
+The AI Advisor should not be considered fixed. Every month, compare:
+- AI recommended setting
+- Salesperson final recommendation
+- Customer selected setting
+- Quoted price
+- Order status
+- Reason if not order
+
+If AI often recommends one setting but salesperson/customer chooses another, update either:
+1. setting scores
+2. priority weights
+3. budget ranges
+4. lifestyle suitability
+5. advisor note / sales angle

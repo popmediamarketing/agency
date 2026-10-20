@@ -1,0 +1,119 @@
+Chamuel & Co. Media Library System
+
+Purpose
+-------
+This system makes it faster to add future photos/videos into the website without manually editing every page.
+
+Next-Time Workflow
+------------------
+1. Upload a ZIP of photos/videos.
+2. Tell ChatGPT the batch purpose:
+   Example:
+   "This batch is Aurora CC-A001. Put mainly in Setting Library and Collections. Homepage only 1 photo."
+3. ChatGPT will:
+   - remove duplicates
+   - identify front / side / back / profile / lifestyle
+   - compress images to WebP
+   - add subtle watermark where required
+   - write alt text and captions
+   - update Media Library CSV / JSON
+   - place media into suitable pages
+   - create a new ready-to-upload website ZIP
+
+Folder Structure
+----------------
+assets/media/
+  engagement-rings/
+  wedding-bands/
+  setting-library/
+    heritage-cc-h001/
+    aurora-cc-a001/
+    harmony-cc-hh001/
+  fine-jewelry/
+  customer-moments/
+  showroom/
+  education/
+  videos/
+  protected-preview/
+  private-preview/
+
+Recommended File Naming
+-----------------------
+setting-code + setting-name + shape + angle
+
+Examples:
+cc-h001-heritage-oval-front.webp
+cc-h001-heritage-oval-side.webp
+cc-a001-aurora-round-front.webp
+cc-hh001-harmony-hidden-halo-side.webp
+wedding-band-two-tone-front.webp
+
+Access Levels
+-------------
+Public:
+- Can be used on website / SEO / Collections.
+- Use web-size WebP.
+- Add watermark if needed.
+
+Protected:
+- Can be shown to selected customers.
+- Add watermark.
+- Do not use as SEO image.
+- Do not include in sitemap.
+
+Private:
+- For confirmed or paid customers only.
+- CAD, measurements, full design files, high-res render, 360 production files.
+- Do not publish publicly.
+
+Main Fields
+-----------
+media_id
+file_name
+file_path
+media_type
+title
+category
+setting_code
+setting_name
+series
+shape
+angle
+material
+stone_type
+page_placement
+alt_text
+caption
+access_level
+watermark_required
+show_on_home
+show_on_showcase
+show_on_setting_library
+show_on_advisor
+show_on_education
+show_on_seo
+priority
+status
+notes
+
+Website Placement Rules
+-----------------------
+Homepage:
+- Only best 1–3 visuals.
+- Do not overload.
+
+Collections:
+- Main place for many visuals and videos.
+
+Setting Library:
+- Structured front / side / back / profile angles.
+- Use setting_code and series.
+
+Engagement Advisor:
+- Only show selected reference visuals that help customers choose.
+
+Education:
+- Use comparison charts, stone explanation, material education and care visuals.
+
+SEO Pages:
+- Use relevant images with strong alt text.

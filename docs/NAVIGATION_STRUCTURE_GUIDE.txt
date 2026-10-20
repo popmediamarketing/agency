@@ -1,0 +1,12 @@
+Chamuel & Co. Navigation Showcase Structure
+
+Top nav pages generated:
+- Home: short landing page + destination cards
+- Collections: engagement rings, wedding bands, fine jewelry showcases
+- Diamonds: diamond type, shape guide, budget matcher
+- Education: material, pricing, timeline, after-sales care
+- Gallery: curated product gallery + social proof section
+- About: brand positioning and showroom direction
+- FAQ: expandable customer questions
+
+Collections and Diamonds also include dropdown links for direct jumps.

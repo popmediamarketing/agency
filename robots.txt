@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chamuelco.com/sitemap.xml
+
+Disallow: /media-library.html
+Disallow: /assets/media/private-preview/
+Disallow: /assets/media/protected-preview/

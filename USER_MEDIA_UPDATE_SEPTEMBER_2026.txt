@@ -1,0 +1,41 @@
+User media update integrated
+
+New source material found in uploaded ZIP
+- 15 engagement ring style images
+- 5 diamond shape guide images
+- 1 vintage inspired ring image
+- 1 classic wedding band pair image
+- Angelic Collection brand story text
+
+Integrated into
+- Collections
+- Diamonds
+- Education
+- 3D Ring Builder
+- Media Library JSON JS CSV
+
+Deployment optimization
+- Original large PNG files converted to WebP
+- Mac .DS_Store files removed
+- Source RTF retained under assets/media/setting-library/Angelic Collection
+
+Important
+The generic engagement ring images are treated as style references
+They are not assigned official CC setting codes
+
+
+Additional detected updates integrated
+- 4 new homepage editorial proposal ring images
+- Diamond Facet Reflection education image
+- Prong Detail education image
+- Hidden Halo Detail mapped to Aurora CC-A001
+- Updated Moissanite Lab-Grown Diamond Natural Diamond education images retained and registered
+
+Homepage
+- Featured Media now uses the newly supplied editorial proposal images
+
+Education
+- Added facet reflection and prong structure visual explanation
+
+Setting Library
+- Aurora CC-A001 now includes the supplied Hidden Halo side detail

@@ -1,0 +1,73 @@
+/**
+ * Chamuel & Co. Engagement Ring AI Advisor → Google Sheet
+ *
+ * Setup:
+ * 1. Create a Google Sheet.
+ * 2. Extensions → Apps Script.
+ * 3. Paste this code.
+ * 4. Deploy → New deployment → Web app.
+ * 5. Execute as: Me.
+ * 6. Who has access: Anyone.
+ * 7. Copy the Web App URL.
+ * 8. Open assets/site.js and paste the URL into:
+ *    const CHAMUEL_LEAD_WEB_APP_URL = "YOUR_WEB_APP_URL";
+ */
+
+function doPost(e) {
+  var ss = SpreadsheetApp.getActiveSpreadsheet();
+  var sheetName = 'Engagement Ring Leads';
+  var sheet = ss.getSheetByName(sheetName) || ss.insertSheet(sheetName);
+
+  if (sheet.getLastRow() === 0) {
+    sheet.appendRow([
+      'Timestamp',
+      'Name',
+      'Phone',
+      'Story',
+      'Proposal Timeline',
+      'Budget',
+      'Lifestyle',
+      'Priority',
+      'Suitable Setting',
+      'Setting Series',
+      'Setting Score',
+      'Suitable Diamond',
+      'Suitable Material',
+      'Suitable Width',
+      'Suitable Warranty',
+      'Suitable After Sales',
+      'Suitable Budget Allocation',
+      'Timeline Advice',
+      'Source'
+    ]);
+  }
+
+  var data = JSON.parse(e.postData.contents || '{}');
+  var rec = data.recommendations || {};
+
+  sheet.appendRow([
+    new Date(),
+    data.name || '',
+    data.phone || '',
+    data.story || '',
+    data.timeline || '',
+    data.budget || '',
+    data.lifestyle || '',
+    data.priority || '',
+    rec['Suitable Setting'] || '',
+    rec['Setting Series'] || '',
+    rec['Setting Score'] || '',
+    rec['Suitable Diamond'] || '',
+    rec['Suitable Material'] || '',
+    rec['Suitable Width'] || '',
+    rec['Suitable Warranty'] || '',
+    rec['Suitable After Sales'] || '',
+    rec['Suitable Budget Allocation'] || '',
+    rec['Timeline Advice'] || '',
+    data.source || 'Engagement Ring AI Advisor'
+  ]);
+
+  return ContentService
+    .createTextOutput(JSON.stringify({ status: 'success' }))
+    .setMimeType(ContentService.MimeType.JSON);
+}

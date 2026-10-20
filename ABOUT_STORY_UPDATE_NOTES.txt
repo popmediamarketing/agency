@@ -1,0 +1,10 @@
+Updates made:
+1. Header duplicate appointment buttons were simplified:
+   Visit Showroom + Book -> Book Appointment
+
+2. About page rewritten in English:
+   - Name inspiration: Archangel Chamuel, angel of love
+   - Jewelry as love, memory, protection and family legacy
+   - Grandfather passing his gold ring and necklace story
+   - Grandmother's jewelry as irreplaceable family memory
+   - Chamuel & Co. belief: jewelry should be treasured and passed on, not only beautiful for a few years

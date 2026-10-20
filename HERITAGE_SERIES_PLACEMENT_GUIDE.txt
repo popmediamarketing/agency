@@ -1,0 +1,30 @@
+Heritage Solitaire Series Placement Guide
+
+Uploaded images were analysed as one coherent setting family:
+Heritage — CC-H001 — Heritage Solitaire Series.
+
+Why this placement:
+- The images are all clean white-gold solitaire engagement ring references.
+- They show multiple diamond shapes and side/profile views.
+- This is stronger as a Setting Library / Advisor reference than as random gallery images.
+
+Placed into:
+1. Setting Library — featured Heritage setting and database card.
+2. Engagement Ring Advisor — visual shape options for AI-guided proposal ring matching.
+3. Engagement Ring SEO page — Heritage series section for search and customer education.
+4. Collections page — engagement ring shape reference section.
+5. Showcase page — dedicated Heritage shape and angle gallery.
+6. Homepage — compact Heritage Series strip only, keeping homepage short.
+
+Setting identity:
+Code: CC-H001
+Name: Heritage
+Series: Heritage Solitaire Series
+Type: Classic Solitaire
+Material Supported: Silver, 9K Gold, 14K Gold, 18K Gold, Platinum
+Shapes Supported: Round, Oval, Emerald, Asscher, Cushion, Heart, Marquise, Pear
+
+Image protection:
+- Product images converted to compressed WebP.
+- Subtle Chamuel&Co. · CC-H001 watermark added to product-view images.
+- Original uploaded files are not used directly in the website package.

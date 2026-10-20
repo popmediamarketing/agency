@@ -1,0 +1,29 @@
+Chamuel Setting Library System
+
+Naming rule:
+Do not use Ring 01 / Ring 02.
+Use proper Chamuel names and CC codes.
+
+Example:
+- Aurora — CC-A001
+- Harmony — CC-HH001
+- Celeste — CC-C001
+- Nova — CC-N001
+- Cathedral One — CC-Co001
+
+Scoring categories:
+1. Sparkle
+2. Maintenance
+3. Durability
+4. Daily Wear
+5. Cleaning Difficulty
+6. Resizing
+7. Budget Efficiency
+
+Score meaning:
+★★★★★ = strongest / easiest / best
+★★★☆☆ = balanced / moderate
+★☆☆☆☆ = weak / difficult / less suitable
+
+Important:
+For Maintenance and Cleaning Difficulty, higher score means easier to maintain or clean.

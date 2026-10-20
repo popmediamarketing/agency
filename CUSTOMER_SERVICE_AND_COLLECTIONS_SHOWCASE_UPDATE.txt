@@ -1,0 +1,24 @@
+Updates made:
+
+1. Customer Service numbers
+Primary: 011-1321 9709
+Second: 017-298 8976
+
+Website footer now displays:
+Customer Service: 011-1321 9709 / 017-298 8976
+
+Primary WhatsApp CTA remains:
+https://wa.me/601113219709
+
+Secondary WhatsApp link:
+https://wa.me/60172988976
+
+2. Showcase merged into Collections
+- Removed standalone Showcase from top navigation.
+- Added Collection Showcase into Collections dropdown.
+- Added Works & References section inside collections.html.
+- Added shape references and Heritage CC-H001 showcase into Collections page.
+- Old showcase.html now redirects to collections.html#showcase to prevent broken links.
+
+Customer path:
+Collections -> Works & References / Collection Showcase
